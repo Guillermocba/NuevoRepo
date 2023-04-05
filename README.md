@@ -1,2 +1,2 @@
 # NuevoRepo
-este es un nuevo repositorio
+este es un nuevo repositori
